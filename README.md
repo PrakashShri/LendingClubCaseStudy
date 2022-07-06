@@ -40,7 +40,7 @@
 - library 3- seaborn
 - library 4- matplotlib
 - library 5- warnings
-- library 5- warnings
+- library 6- warnings
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
