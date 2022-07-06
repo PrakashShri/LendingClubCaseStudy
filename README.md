@@ -1,5 +1,5 @@
 # Project Name
-> EDA Analysis For Leading Club Case Study.
+> EDA Analysis For Lending Club Case Study.
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@
 
 ## General Information
 - This project involve EDA analysis for the loan provided by the financial institutions/bank .It analysed the historical data for the customers and help the financial institutions/bank to identify the driving factors behind loan default. This project contain deatiled analysis on historical data for Leading Club and provide recommendations which will help the organization to take decision related to defaulters.
-- Data set used for Leading club and source data was provided in excel.
+- Data set used for Lending club and source data was provided in excel.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
